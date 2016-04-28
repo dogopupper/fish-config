@@ -1,0 +1,1 @@
+/Users/oops/.config/fisherman/simple/functions/fish_prompt.fish

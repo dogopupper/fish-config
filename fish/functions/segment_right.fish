@@ -1,0 +1,1 @@
+/Users/oops/.config/fisherman/segment/functions/segment_right.fish

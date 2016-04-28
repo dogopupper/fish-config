@@ -1,0 +1,1 @@
+/Users/oops/.config/fisherman/title.git/functions/title.fish

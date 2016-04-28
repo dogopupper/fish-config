@@ -1,0 +1,1 @@
+/Users/oops/.config/fisherman/gitignore/completions/gitignore.fish

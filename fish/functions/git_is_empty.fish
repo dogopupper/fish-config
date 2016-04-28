@@ -1,0 +1,1 @@
+/Users/oops/.config/fisherman/git_util/functions/git_is_empty.fish

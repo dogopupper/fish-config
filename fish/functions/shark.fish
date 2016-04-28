@@ -1,0 +1,1 @@
+/Users/oops/.config/fisherman/shark/functions/shark.fish

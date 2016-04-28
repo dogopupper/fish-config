@@ -1,0 +1,1 @@
+/Users/oops/.config/fisherman/spin/functions/spin.fish

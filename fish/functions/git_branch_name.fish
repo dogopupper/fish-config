@@ -1,0 +1,1 @@
+/Users/oops/.config/fisherman/git_branch_name/functions/git_branch_name.fish

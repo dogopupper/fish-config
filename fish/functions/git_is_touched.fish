@@ -1,0 +1,1 @@
+/Users/oops/.config/fisherman/git_is_touched/functions/git_is_touched.fish

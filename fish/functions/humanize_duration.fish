@@ -1,0 +1,1 @@
+/Users/oops/.config/fisherman/humanize_duration/functions/humanize_duration.fish

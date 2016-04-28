@@ -1,0 +1,1 @@
+/Users/oops/.config/fisherman/new/functions/fisher_new.fish
