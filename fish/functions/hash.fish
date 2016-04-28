@@ -1,0 +1,1 @@
+/Users/oops/.config/fisherman/hash.git/functions/hash.fish

@@ -7,6 +7,7 @@ fisherman/git_is_repo
 fisherman/git_is_touched
 fisherman/git_util
 fisherman/gitignore
+oh-my-fish/plugin-hash.git
 fisherman/host_info
 fisherman/humanize_duration
 fisherman/last_job_id
