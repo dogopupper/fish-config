@@ -1,0 +1,1 @@
+/Users/oops/.config/fisherman/grc/functions/grc.wrap.fish
